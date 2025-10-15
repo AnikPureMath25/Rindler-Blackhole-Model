@@ -53,12 +53,7 @@ A permanent DOI for this repository will be assigned upon Zenodo archiving.
 
 Citation
 When citing this repository, please use the Zenodo DOI (once available) or the following format:
-
-text
 Anik Chakraborty (2025). Rindler Black Hole Model. GitHub repository. https://github.com/AnikPureMath25/Rindler-Blackhole-Model
 
 Contact
 For questions regarding code, figures, or scientific interpretation, please contact: achakraborty@maths.du.ac.in
-
-Citation
-When citing this repository, please use the Zenodo DOI (once available) or the following format:
